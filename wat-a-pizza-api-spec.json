@@ -1,6 +1,7 @@
 {
     "paths": {
         "/menu": {
+
              "get":{
                  "summary": "View all menu details",
                      
